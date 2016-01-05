@@ -16,4 +16,4 @@ Provision is made for mounting four thermostats and four solenoid valves, althou
 It is assumed that you have a boiler and four solenoid circuit already mounted.
 
 ##See also
-[Visit diyideas.es!](https://diyideas.es)
+[Visit diyideas.es](http://diyideas.es)
