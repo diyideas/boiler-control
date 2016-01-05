@@ -1,1 +1,1 @@
-# boiler-control
+# Boiler Control System
